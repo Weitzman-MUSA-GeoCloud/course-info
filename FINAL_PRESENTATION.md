@@ -57,3 +57,13 @@ Here’s a suggested flow, emphasizing showing over telling:
 I do expect you to show your working application and pipeline (using the actual Workflow graph!), explain your key design decisions as you demo, and give a clear picture of how your system functions end-to-end.
 
 Let me know if you have any questions. Looking forward to seeing your systems in action!
+
+## Project Deliverables
+
+By the end of the semester (**May 13th**) I expect the following deliverables:
+
+  * **GitHub Repository**: You should have all your pull requests merged into the `main` branch of your repository
+  * **GCP Project**: The code that is in your repository should correspond to what's deployed in GCP
+  * **Documentation**: All of the commands to deploy your GCP resources should be documented (either in shell scripts or markdown files)
+    * _Bonus_: Update the README.md in your repository to include sections on "Architecture" (which basically contains the stuff you'll talk through in your presentation) and "Deployment" (which explains how someone would deploy the code if they wanted to).
+  * **GitHub Pages**: Your GitHub Pages site should be up and running; add the link to it in your repository's **About** section
