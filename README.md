@@ -2,19 +2,14 @@
 
 * **Instructor(s):**
   * Mjumbe Poe, mjumbe@design.upenn.edu
-  * Junyi Yang, junyiy@design.upenn.edu
 * **Schedule:** Wednesdays, 1:45-4:45
-* **Room:** ...
+* **Room:** Van Pelt 113
 * **Office Hours:**
   * Mjumbe:
     * Coworking in person ([check schedule here](https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&mode=WEEK&src=ZDRjNTI3NDhhNWIzMTFhZGM2NTdhZjVmZjEyYTIxNmY1MjkxNWFkMmFiMjYxYzM5YWNlZjlkMTRiMWI5MWIzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300))  
       _Usually in Van Pelt RDDSx Mondays, Tuesdays, Wednesdays, 10:45-12:45, but there are exceptions; check the calendar_
       
     * Virtually, by appointment ([book here](https://calendar.app.google/ZTSCtEUBdMtkPzJw6))
-  * Junyi:
-    * Monday 9-11 AM ([Make appointments here](https://calendly.com/yjymonica2012/junyi-musa-cloud-computing-office-hour)) on Zoom or in person
-    * The above schedule may be moved to another day if there is a schedule conflict. (Check the link above for the most up-to-date schedule)
-    * By appointment
 
 [Description](#description) | [Schedule](#course-schedule) | [Objectives](#course-objectives) | [Format](#format) | [Assignments](#assignments) | [Grading](#grading) | [Academic Integrity](#academic-integrity)
 
@@ -37,12 +32,12 @@ The class is divided into four modules:
 
 |  W#  |  Date  |  Topic  |
 |------|--------|---------|
-|  1   |  Jan 22  |  Introduction  |
-|  2   |  Jan 29  |  _Analytics_: Spatial Databases & Querying Geospatial Data  |
-|  3   |  Feb 5   |  _Analytics_: Joins & More Geospatial SQL Operations  |
-|  4   |  Feb 12   |  _Analytics_: Efficient Queries  |
-|  5   |  Feb 19  |  _Scripting_: Working with Data from Files and Web Services  |
-|  6   |  Feb 26  |  _Scripting_: More Extracting Data  |
+|  1   |  Jan 21  |  Introduction  |
+|  2   |  Jan 28  |  _Analytics_: Spatial Databases & Querying Geospatial Data  |
+|  3   |  Feb 4   |  _Analytics_: Joins & More Geospatial SQL Operations  |
+|  4   |  Feb 11   |  _Analytics_: Efficient Queries  |
+|  5   |  Feb 18  |  _Scripting_: Working with Data from Files and Web Services  |
+|  6   |  Feb 25  |  _Scripting_: More Extracting Data  |
 |  7   |  Mar 4   |  _Pipelines_: Implementing ETL in Cloud Services  |
 |  -   |  Mar 11   |  **-(SPRING BREAK)-**  |
 |  8   |  Mar 18  |  _Pipelines_: Deploying to the cloud  |
