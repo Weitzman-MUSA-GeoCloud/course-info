@@ -35,7 +35,7 @@ If you have Docker installed on your machine, the easiest way to get PostgreSQL 
 3.  Run the PostgreSQL container with PostGIS extension:
 
     ```bash
-    docker run --name postgis-container -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 -v pgdata:/var/lib/postgresql/data postgis
+    docker run --name postgis-container -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 -v pgdata:/var/lib/postgresql/data postgis/postgis
     ```
 
     > **_NOTE: What do all of these options mean..._**
@@ -44,8 +44,8 @@ If you have Docker installed on your machine, the easiest way to get PostgreSQL 
     > * `-e POSTGRES_PASSWORD=mysecretpassword`: Sets the environment variable for the PostgreSQL password. This variable is mandatory to run the container. Replace `mysecretpassword` with a password of your choice. I usually just use the password "postgres" for simplicity.
     > * `-d`: Runs the container in detached (background) mode.
     > * `-p 5432:5432`: Maps the container's internal port (5432) to the same port on your host machine.
-    > * `-v pg_data:/var/lib/postgresql/data`: Mounts the created volume to the data directory inside the container for persistence.
-    > * `postgis`: Specifies the image to use.
+    > * `-v pgdata:/var/lib/postgresql/data`: Mounts the created volume to the data directory inside the container for persistence.
+    > * `postgis/postgis`: Specifies the image to use.
 
 Alternatively, you can find a set of installation instruction for your platform at https://www.postgresql.org/download/ (but check out the _Getting Started_ video for your operating system below first). Pay close attention to the port that you configure PostgreSQL to work on during installation -- `5432` is the default, but there are cases where that may not be the port used.
 
