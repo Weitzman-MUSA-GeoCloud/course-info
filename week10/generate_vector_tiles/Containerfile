@@ -1,4 +1,4 @@
-# This Dockerfile is a mix of two documentation sources:
+# This Containerfile is a mix of two documentation sources:
 # https://cloud.google.com/run/docs/quickstarts/jobs/build-create-shell#writing
 # https://cloud.google.com/run/docs/tutorials/gcloud#code-container
 
