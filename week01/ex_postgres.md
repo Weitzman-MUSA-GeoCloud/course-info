@@ -38,7 +38,8 @@ If you have Docker installed on your machine, the easiest way to get PostgreSQL 
     docker run --name postgis-container -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 -v pgdata:/var/lib/postgresql/data postgis
     ```
 
-    > What do all of these options mean...
+    > **_NOTE: What do all of these options mean..._**
+    >
     > * `--name postgis-container`: Assigns a name to your container (it doesn't have to be "postgis-container").
     > * `-e POSTGRES_PASSWORD=mysecretpassword`: Sets the environment variable for the PostgreSQL password. This variable is mandatory to run the container. Replace `mysecretpassword` with a password of your choice. I usually just use the password "postgres" for simplicity.
     > * `-d`: Runs the container in detached (background) mode.
