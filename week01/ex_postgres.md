@@ -16,7 +16,27 @@ Use the official QGIS installer (https://www.qgis.org/download/)
 
 # Install PostgreSQL
 
-You can find a set of installation instruction for your platform at https://www.postgresql.org/download/ (but check out the _Getting Started_ video for your operating system below first). Pay close attention to the port that you configure PostgreSQL to work on during installation -- `5432` is the default, but there are cases where that may not be the port used.
+## Using Docker (recommended)
+
+1.  Pull the PostgreSQL image (optional, the docker run command will pull it automatically if not present):
+
+    ```bash
+    docker pull postgis/postgis:latest
+    ```
+
+2.  Create a Docker volume for data persistence (this ensures your data isn't lost when the container stops):
+
+    ```bash
+    docker volume create pgdata
+    ```
+
+3.  Run the PostgreSQL container with PostGIS extension:
+
+    ```bash
+    docker run --name postgis-container -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 -v pgdata:/var/lib/postgresql/data postgis
+    ```
+
+Alternatively, you can find a set of installation instruction for your platform at https://www.postgresql.org/download/ (but check out the _Getting Started_ video for your operating system below first). Pay close attention to the port that you configure PostgreSQL to work on during installation -- `5432` is the default, but there are cases where that may not be the port used.
 
 Helpful links:
 - [postgis.net - Gettings Started - Installing PostGIS](https://postgis.net/documentation/getting_started/#installing-postgis)
