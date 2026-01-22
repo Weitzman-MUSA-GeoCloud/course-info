@@ -11,9 +11,9 @@ Other relevant links from the lecture:
 
 ## In-class Exercise
 
-* [Load data into PostgreSQL and PostGIS](ex_1_loading_data.md)
-* [Query tabular data](ex_2_querying_data.md)
-* [Query spatial data](ex_3_querying_spatial_data.md)
+* [Load data into PostgreSQL and PostGIS](exercises/ex_1_loading_data.md)
+* [Query tabular data](exercises/ex_2_querying_data.md)
+* [Query spatial data](exercises/ex_3_querying_spatial_data.md)
 
 ## Assignments
 
