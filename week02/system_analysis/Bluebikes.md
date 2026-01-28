@@ -1,7 +1,7 @@
 # Suggest-a-Station: System Analysis
 
-**Duration**: ~30 Minutes
-**Goal**: Build intuition about data collection systems by tracing data flow through a real geospatial application.
+**Duration**: ~30 Minutes  
+**Goal**: Build intuition about data collection systems by tracing data flow through a real geospatial application.  
 **Tool**: [Bluebikes Suggest-a-Station](https://bluebikes.com/suggest-a-station)
 
 ---
