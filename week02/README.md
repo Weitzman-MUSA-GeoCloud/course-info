@@ -11,6 +11,7 @@ Other relevant links from the lecture:
 
 ## In-class Exercise
 
+* [Suggest-a-Station: System Analysis](system_analysis/Bluebikes.md)
 * [Load data into PostgreSQL and PostGIS](exercises/ex_1_loading_data.md)
 * [Query tabular data](exercises/ex_2_querying_data.md)
 * [Query spatial data](exercises/ex_3_querying_spatial_data.md)
