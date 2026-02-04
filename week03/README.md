@@ -15,5 +15,5 @@
 
 ## Assignments
 
-* Finish [Assignment 01](https://github.com/Weitzman-MUSA-GeoCloud/assignment01)
+* Start [Assignment 02](https://github.com/Weitzman-MUSA-GeoCloud/assignment02)
 * Watch [week 4 video](https://share.descript.com/view/qVApm60gAHr)
