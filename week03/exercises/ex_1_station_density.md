@@ -4,7 +4,7 @@ In the exercises this week, we're going to use PostGIS to surface some basic inf
 
 This exercise depends on:
 * **Bikeshare station location data** (the _easiest_ way to get this is through the [station status GeoJSON download](http://www.rideindego.com/stations/json/), though I would normally advocate for using the GBFS resources)
-* **Neighborhood polygon data** (there is no official source of neighborhood boundaries in Philadelphia, but Azavea, a local Philadelphia company that creates geospatial web-based applications and analyses, has created [the go-to source]([https://github.com/azavea/geo-data/tree/master/Neighborhoods_Philadelphia](https://github.com/opendataphilly/open-geo-data)))
+* **Neighborhood polygon data** (there is no official source of neighborhood boundaries in Philadelphia, but Azavea, a local Philadelphia company that creates geospatial web-based applications and analyses, has created [the go-to source](https://github.com/opendataphilly/open-geo-data))
 
 Load those datasets into a database.
 
