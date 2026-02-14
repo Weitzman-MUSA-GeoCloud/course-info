@@ -12,12 +12,19 @@ https://weitzman-musa-geocloud.github.io/presentations/week04/SLIDES.html
 * [Assignment 02](https://github.com/Weitzman-MUSA-GeoCloud/assignment02/)
 * Watch [week 5 video](https://share.descript.com/view/idEqeuDQrUB)
 
+### Tips for the assignment...
+
+- Use SQLFluff to check your SQL syntax. You can use the `fix` subcommand to automatically fix some of the issues that SQLFluff finds. For example:
+  ```bash
+  sqlfluff fix my_file.sql
+  ```
+
 ## Readings
 
 * Readings  
   (access book through [O'Reilly for Higher Education](http://hdl.library.upenn.edu.proxy.library.upenn.edu/1017/7026/1))
 
-  * By Feb 26
+  * By Feb 25
 
     * **Data Pipelines Pocket Reference**  
       *Chapter 1: Introduction to Data Pipelines*
@@ -25,7 +32,7 @@ https://weitzman-musa-geocloud.github.io/presentations/week04/SLIDES.html
     * **Data Pipelines Pocket Reference**  
       *Chapter 2: A Modern Data Infrastructure*
 
-  * By Mar 5
+  * By Mar 4
 
     * **Data Pipelines Pocket Reference**  
       *Chapter 3: Common Data Pipeline Patterns*

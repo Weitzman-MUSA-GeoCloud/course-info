@@ -24,7 +24,7 @@
 
 ## Assignments
 
-* [Assignment 02](https://github.com/Weitzman-MUSA-GeoCloud/assignment02)
+* [Assignment 03](https://github.com/Weitzman-MUSA-GeoCloud/assignment03)
 * Read the following chapters (access book through [O'Reilly for Higher Education](http://hdl.library.upenn.edu.proxy.library.upenn.edu/1017/7026/1)):
   - For this week:
     * **Data Pipelines Pocket Reference**  
@@ -44,13 +44,6 @@
       The first section (*Data Structures That Power Your Database*) goes in to a lot more detail about the types of indexing we were discussing this week, and the last section (*Column-Oriented Storage*) covers things we'll see in the next few weeks, but in more detail than we'll go into in class. They are optional, but feel free to read them if you enjoy technical details.
 
 * Watch the [week 06 video](https://share.descript.com/view/Tg3BUyKVgSq)
-
-### Tips for the assignment...
-
-- Use SQLFluff to check your SQL syntax. You can use the `fix` subcommand to automatically fix some of the issues that SQLFluff finds. For example:
-  ```bash
-  sqlfluff fix my_file.sql
-  ```
 
 ### Supplemental Readings
 
