@@ -14,4 +14,5 @@ with open('data/opa_properties_public.jsonl', 'w') as f:
             row['geog'] = json.dumps(feature['geometry'])
         else:
             row['geog'] = None
+
         f.write(json.dumps(row) + '\n')

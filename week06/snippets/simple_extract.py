@@ -1,3 +1,5 @@
+# An extract script for a single file without any 3rd-party dependencies
+
 from urllib.request import urlopen
 
 url = 'https://opendata-downloads.s3.amazonaws.com/opa_properties_public.csv'

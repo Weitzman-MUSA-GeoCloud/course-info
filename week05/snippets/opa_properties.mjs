@@ -1,4 +1,4 @@
-import fs from 'node:fs';
+import fs from 'fs';
 import BigJSON from 'big-json';
 
 // Load the data from the GeoJSON file

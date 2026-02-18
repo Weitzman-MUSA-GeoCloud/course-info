@@ -1,4 +1,3 @@
-import fetch from 'node-fetch';
 import Zip from 'adm-zip';
 import path from 'path';
 import { fileURLToPath } from 'url';
