@@ -1,6 +1,6 @@
 ## Slides
 
-- Main slides: https://Weitzman-MUSA-GeoCloud/presentation_slides/week06/SLIDES.html
+- Main slides: https://Weitzman-MUSA-GeoCloud.github.io/presentations/week06/SLIDES.html
 
 - Additional slides about spatial data formats: https://docs.google.com/presentation/d/18R1x1_Pscpc_TyYi5NH1RBJA7OO8wsjlG1BhYTVrvfA/edit?usp=sharing
 
@@ -32,7 +32,7 @@ Continue working on the [BigQuery & Carto](../week05/exercises/ex_load_data_into
 
 ## Assignments
 
-- [Assignment 02](https://github.com/Weitzman-MUSA-GeoCloud/assignment02)
+- [Assignment 03](https://github.com/Weitzman-MUSA-GeoCloud/assignment03)
 - Read the following chapters(access books through [O'Reilly for Higher Education](http://hdl.library.upenn.edu.proxy.library.upenn.edu/1017/7026/1)):
     * **Data Pipelines Pocket Reference**
       *Chapter 3: Common Data Pipeline Patterns*
@@ -43,13 +43,14 @@ Continue working on the [BigQuery & Carto](../week05/exercises/ex_load_data_into
       About the other _optional_ sections:
       The first section (*Data Structures That Power Your Database*) goes in to a lot more detail about the types of indexing we were discussing this week, and the last section (*Column-Oriented Storage*) covers things we'll see in the next few weeks, but in more detail than we'll go into in class. They are optional, but feel free to read them if you enjoy technical details.
 - Watch the [week 7 video](https://share.descript.com/view/9drEh9q22ID)
-- Fill out the [In-class Project Team Roles](https://docs.google.com/forms/d/1jsEFjWQ8LaFny1edTXDGi_9jpj1yIMJ8FagtjLxg1qM/edit) form
+- Fill out the [In-class Project Team Roles](https://docs.google.com/forms/d/e/1FAIpQLScaRJr0OHfvpmJVC7ti4xz_CuBaeDduVmacE03j_4EhZfp2Kg/viewform?usp=publish-editor) form
 
 ## Resources
 
 - [_ES Modules: All You Need To Know_](https://konstantin.digital/blog/es-modules-all-you-need-to-know)
 - [OpenStreetMap BigQuery Dataset Reference](https://wiki.openstreetmap.org/wiki/BigQuery_dataset) (also, this [Ultimate Guide to OpenStreetMap & BigQuery](https://carto.com/blog/osm-bigquery) from Carto)
 
+<!--
 ## From the lecture...
 
 - Cal-ITP Code:
@@ -60,3 +61,4 @@ Continue working on the [BigQuery & Carto](../week05/exercises/ex_load_data_into
   A colleague of mine shared this post from the NYC MTA about their analytics infrastructure strategy: _How we build analytics at scale at the MTA_, https://www.mta.info/article/how-we-build-analytics-scale-mta
 
   It provides a good example of a modern data stack, and shows how they think about the stack as a product with users whose needs can be identified and should drive the design of the system.
+-->
