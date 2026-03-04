@@ -1,3 +1,8 @@
+## Lecture/Slides
+
+- Video lecture: https://share.descript.com/view/Uw9egXI9m9T
+- Slides: https://Weitzman-MUSA-GeoCloud.github.io/presentations/week08/SLIDES.html
+
 ## Resources
 
 ### Cloud-optimized Geospatial Formats

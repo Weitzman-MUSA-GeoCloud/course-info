@@ -1,5 +1,6 @@
-## Slides
+## Lecture/Slides
 
+- Video lecture: https://share.descript.com/view/hp1pjCMbpyq
 - Intro to Databases: https://docs.google.com/presentation/d/1v-nMrK1-xhoOSA4Euq3B5xq6pSm0uv-D_485J4d_yZo/edit?usp=sharing
 - SQL Language & Data Types: https://docs.google.com/presentation/d/1bbl9SL_DuFRiPkEz8Hc_4SypMUp_T-5fFAl5GAeU7Cw/edit?usp=sharing
 

@@ -1,6 +1,7 @@
-## Slides
+## Lecture/Slides
 
-https://weitzman-musa-geocloud.github.io/presentations/week04/SLIDES.html
+- Video lecture: https://share.descript.com/view/qVApm60gAHr
+- Slides: https://weitzman-musa-geocloud.github.io/presentations/week04/SLIDES.html
 
 ## In-class Exercise
 

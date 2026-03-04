@@ -1,6 +1,7 @@
-## Slides
-
-- https://Weitzman-MUSA-GeoCloud.github.io/presentations/week07/SLIDES.html
+## Lecture/Slides
+  
+- Video lecture: https://share.descript.com/view/9drEh9q22ID
+- Slides: https://Weitzman-MUSA-GeoCloud.github.io/presentations/week07/SLIDES.html
 - In-class project: https://docs.google.com/presentation/d/1XRS2O_0IJNv2jknYMHfWHBhhqFn0e2gyK_vgbQMAUKg/edit?usp=sharing
 
 ## In-class Activities

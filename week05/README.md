@@ -1,6 +1,7 @@
-## Slides
+## Lecture/Slides
 
-- https://Weitzman-MUSA-GeoCloud/presentation_slides/week05/SLIDES.html
+- Video lecture: https://share.descript.com/view/idEqeuDQrUB
+- Slides: https://Weitzman-MUSA-GeoCloud/presentation_slides/week05/SLIDES.html
 - Revisiting the data product architecture:
   ![Data-centric Cloud-based Product Architecture](images/data-product-architecture.png)
 

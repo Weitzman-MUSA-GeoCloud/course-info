@@ -1,7 +1,7 @@
-## Slides
+## Lecture/Slides
 
+- Video lecture: https://share.descript.com/view/Tg3BUyKVgSq
 - Main slides: https://Weitzman-MUSA-GeoCloud.github.io/presentations/week06/SLIDES.html
-
 - Additional slides about spatial data formats: https://docs.google.com/presentation/d/18R1x1_Pscpc_TyYi5NH1RBJA7OO8wsjlG1BhYTVrvfA/edit?usp=sharing
 
 ## Code Samples

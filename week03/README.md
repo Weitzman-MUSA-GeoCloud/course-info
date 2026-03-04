@@ -1,5 +1,6 @@
-## Slides
+## Lecture/Slides
 
+- Video lecture: https://share.descript.com/view/8SV8YvW4m3U
 - Geospatial Operations, CTEs, and Joins: https://weitzman-musa-geocloud.github.io/presentations/week03/SLIDES.html
 
 ## Discussion
